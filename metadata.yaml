@@ -1,0 +1,25 @@
+_repo: Folksangerna-om-Robin-Hood-Akademisk-afhandling_51825
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Estlander, Carl Gustaf
+    birthdate: 1834
+    deathdate: 1910
+    gutenberg_agent_id: '46566'
+    url: http://www.gutenberg.org/2009/agents/46566
+description: ''
+gutenberg_issued: '2016-04-22'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '51825'
+language: sv
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Thesis (Ph. D.)'
+- !lcc 'PR'
+- !lcsh 'Robin Hood (Legendary character) -- Legends -- History and criticism'
+- GITenberg
+title: 'Folksångerna om Robin Hood: Akademisk afhandling'
+url: http://www.gutenberg.org/ebooks/51825
